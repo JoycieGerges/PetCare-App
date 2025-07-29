@@ -66,15 +66,16 @@ await Firebase.initializeApp(
   options: DefaultFirebaseOptions.currentPlatform,
 );
 ```
+---
+## 🧠 Author
 
+**Developed by [Joycie Gerges](mailto:joyciegerges@gmail.com)**
 
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+📧 **Email:** [joyciegerges@gmail.com](mailto:joyciegerges@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/joycie-gerges-b45514248/)
 
 ---
 
-## 👤 Author
+## 📜 License
 
-- **Joycie Gerges**  
-  [LinkedIn](https://www.linkedin.com/in/joycie-gerges-b45514248/) | [GitHub](https://github.com/JoycieGerges)
+This project is licensed under the [MIT License](./LICENSE).
